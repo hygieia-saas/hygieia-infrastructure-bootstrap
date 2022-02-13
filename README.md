@@ -20,17 +20,17 @@ https://197752213991.signin.aws.amazon.com/console
 - 806143112085
     - hygieia-infra-homepage-prod
     - kiessling.manuel+hygieia-aws-infra-homepage-prod@gmail.com
-    - https://signin.aws.amazon.com/switchrole?roleName=AccountManager&account=351064196973
+    - https://signin.aws.amazon.com/switchrole?roleName=AccountManager&account=806143112085
 
 - 039307614955
     - hygieia-infra-webapp-preprod
     - kiessling.manuel+hygieia-aws-infra-webapp-preprod@gmail.com
-    - https://signin.aws.amazon.com/switchrole?roleName=AccountManager&account=000270780644
+    - https://signin.aws.amazon.com/switchrole?roleName=AccountManager&account=039307614955
 
 - 199387562978
     - hygieia-infra-webapp-prod
     - kiessling.manuel+hygieia-aws-infra-webapp-prod@gmail.com
-    - https://signin.aws.amazon.com/switchrole?roleName=AccountManager&account=325062206315
+    - https://signin.aws.amazon.com/switchrole?roleName=AccountManager&account=199387562978
 
 
 ### Getting started
