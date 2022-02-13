@@ -2,23 +2,23 @@ locals {
   default_region = "us-east-1"
 
   account_info_org_iam = {
-    id    = "343194324802"
+    id    = "197752213991"
     name  = "hygieia-org-iam"
   }
 
+  account_info_infra_homepage_prod = {
+    id    = "806143112085"
+    name  = "hygieia-infra-homepage-prod"
+  }
+
   account_info_infra_webapp_preprod = {
-    id    = "000270780644"
-    name  = "hygieia-infra-webapp-prod"
+    id    = "039307614955"
+    name  = "hygieia-infra-webapp-preprod"
   }
 
   account_info_infra_webapp_prod = {
-    id    = "325062206315"
+    id    = "199387562978"
     name  = "hygieia-infra-webapp-prod"
-  }
-
-  account_info_infra_homepage_prod = {
-    id    = "351064196973"
-    name  = "hygieia-infra-homepage-prod"
   }
 
   account_manager_group_name = "AccountManagers"

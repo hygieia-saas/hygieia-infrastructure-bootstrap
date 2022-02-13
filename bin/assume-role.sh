@@ -29,7 +29,7 @@ then
   echo "       ACCOUNTID"
   echo ""
   echo "       The id of the AWS account to which the role belongs."
-  echo "       Default: 325062206315"
+  echo "       Default: 039307614955"
   echo ""
   echo "       ROLE"
   echo ""
@@ -49,7 +49,7 @@ else
 
   if [ "$1" = "" ]
   then
-    ACCOUNTID="325062206315"
+    ACCOUNTID="039307614955"
   else
     ACCOUNTID="$1"
   fi
