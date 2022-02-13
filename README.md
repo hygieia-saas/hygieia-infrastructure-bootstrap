@@ -1,4 +1,4 @@
-# hygieia - Virus Checks as a Service
+# Hygieia - Virus Checks as a Service
 
 ## Infrastructure Bootstrap Project
 
