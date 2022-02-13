@@ -4,7 +4,7 @@
 
 Login URI for personal IAM accounts:
 
-https://???.signin.aws.amazon.com/console
+https://197752213991.signin.aws.amazon.com/console
 
 
 ### AWS Accounts
